@@ -1,0 +1,15 @@
+{
+    "email_from": "clusternotify@example.com",
+    "users" : 
+    [
+        { 
+            "name" : "mmuste2s",
+            "email" : "max.mustermann@smail.inf.h-brs.de",
+            "waitingJobStarted" : true,
+            "newRunningJob" : false,
+            "runningJobFinished" : true,
+            "jobWaiting" : false,
+            "waitingJobVanished" : false
+        }
+    ]
+}
